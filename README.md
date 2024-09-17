@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, I'm Barry Yang
+
+### Keep pushing and stay positive.
+
+- WRO Robo Mission solution provider
+- Racing drone pilot
+- TCIVS 3DMaker Lab, Coach
+- Passionate robot designer
+
 
 <!--
 **Lowis-Mamilton/Lowis-Mamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
